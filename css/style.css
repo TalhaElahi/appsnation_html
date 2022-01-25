@@ -8475,13 +8475,13 @@ html .mt15 {
     text-align: center;
     height: 237px;
 }
-
+/* edit by talha */
 .listSec ul li {
     list-style: none;
-    margin: 0 0 25px;
-    display: block;
+    /* margin: 0 0 25px; */
+    /* display: block; */
 }
-
+/* xxxxxxxxxxxx */
 .listSec ul li img {
     display: inline-block;
     vertical-align: top;
@@ -8719,4 +8719,8 @@ html .mt15 {
     width: 33%;
     display: inline-block;
     
+}
+.lst-new
+{
+    margin: 0 0 0 60px;
 }
