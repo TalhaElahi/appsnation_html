@@ -697,17 +697,86 @@
     <!--End Header -->
     <!--Breadcrumb Area-->
     <section class="breadcrumb-areav2" data-background="images/solution_banners/booking.jpg">
-        <div class="container">
+        <div class="container-fluid">
             <div class="row justify-content-center">
-                <div class="col-lg-9">
+                <div class="col-lg-6">
                     <div class="bread-titlev2">
-                        <h1 class="wow fadeInUp" data-wow-delay=".2s">Bookd Up</h1>
-                        <p class="mt20 wow fadeInUp" data-wow-delay=".4s">The unique platform where user can find different professions with their leisure time, set the slot, create a request, select an automated venue and enjoy the exposure around. </p>
+                        <h1 class="banner-heading wow fadeInUp" data-wow-delay=".2s">Bookd Up</h1>
+                        <p class="banner-para mt20 wow fadeInUp" data-wow-delay=".4s">The unique platform where user can find different professions with their leisure time, set the slot, create a request, select an automated venue and enjoy the exposure around.</p>
                         <a href="#" class="btn-main bg-btn3 lnk mt20 wow zoomInDown" data-wow-delay=".6s">Get Quote
                             <i class="fas fa-chevron-right fa-icon"></i>
                             <span class="circle"></span>
                         </a>
                     </div>
+                </div>
+                <div class="col-lg-1"></div>
+                <div class="col-sm-12 col-md-12 col-lg-3 d-block">
+                    <div class="card">
+                        <div class="card-body">
+                            <h3 class="text-center pb-3">Request For Quote</h3>
+                            <div class="form-block">
+                                <form action="" method="post" id="contactForm" data-toggle="validator" class="shake">
+                                    <div class="row">
+                                        <div class="form-group col-sm-12 col-md-12">
+                                            <input type="text" name="name" id="name" placeholder="Enter name" required data-error="Please fill Out">
+                                            <div class="help-block with-errors"></div>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="form-group col-sm-12 col-md-12">
+                                            <input type="email" name="email" id="email" placeholder="Enter email" required>
+                                            <div class="help-block with-errors"></div>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="form-group col-sm-12 col-md-12 col-lg-12">
+                                            <input type="text" name="mobile" id="mobile" placeholder="Enter mobile" required data-error="Please fill Out">
+                                            <div class="help-block with-errors"></div>
+                                        </div>
+                                    </div>
+                                    <div class="row" hidden>
+                                        <input type="hidden" name="service" value="social-media">
+                                        <!-- <div class="form-group col-sm-12 col-md-12 col-lg-6">
+                                            <select name="service" id="Dtype" required>
+                                                <option value="">Select Service</option>
+                                                <option value="designing">Designing</option>
+                                                <option value="development">Development</option>
+                                                <option value="social-media">Social Media</option>
+                                                <option value="seo">SEO</option>
+                                                <option value="email-marketing">Email Marketing</option>
+                                                <option value="paind-marketing">Paid Marketing</option>
+                                                <option value="ecommerce-managment">E-Commerce Management</option>
+                                            </select>
+                                            <div class="help-block with-errors"></div>
+                                        </div> -->
+                                    </div>
+                                    <!-- <div class="row">
+                                        <div class="fform-group col-sm-12 col-md-12">
+                                            <input type="text" name="company" id="company" placeholder="Enter company name (optional)" required data-error="">
+                                        </div>
+                                        </div>
+                                    <div class="row">
+                                        <div class="form-group form-group col-sm-12 col-md-12">
+                                            <input type="text" id="subject" name="subject" placeholder="Enter subject" required data-error="Please fill Out">
+                                            <div class="help-block with-errors"></div>
+                                        </div>
+                                    </div> -->
+                                    <div class="row">
+                                        <div class="form-group col-sm-12">
+                                            <textarea id="message" rows="3" name="message" placeholder="Enter your message" required></textarea>
+                                            <div class="help-block with-errors"></div>
+                                        </div>
+                                    </div>
+                                    <button type="submit" name="submit" id="form-submit" class="btn-main bg-btn lnk">Submit <i class="fas fa-chevron-right fa-icon"></i></button>
+                                    <div id="msgSubmit" class="h3 text-center hidden"></div>
+                                    <div class="clearfix"></div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+    
+    
+                    
                 </div>
             </div>
         </div>
