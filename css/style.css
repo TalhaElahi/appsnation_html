@@ -2416,7 +2416,7 @@ footer.ftshap:before {
     -webkit-box-shadow: 0 10px 10px -10px rgba(0, 0, 0, 0.05);
     box-shadow: 0 10px 10px -10px rgba(0, 0, 0, 0.05);
 }
-
+/* changes by talha */
 .breadcrumb-areav2:before {
     content: '';
     position: absolute;
@@ -2427,10 +2427,11 @@ footer.ftshap:before {
     right: 0;
     left: 0;
     z-index: 0;
-    background: -moz-linear-gradient(-45deg, #ffdee9 0%, #c8fff4 100%);
+    /* background: -moz-linear-gradient(-45deg, #ffdee9 0%, #c8fff4 100%);
     background: -webkit-linear-gradient(-45deg, #ffdee9 0%, #c8fff4 100%);
-    background: linear-gradient(135deg, #ffdee9 0%, #c8fff4 100%);
+    background: linear-gradient(135deg, #ffdee9 0%, #c8fff4 100%); */
 }
+/* xxxxxxxxxxxxxxx */
 
 .breadcrumb-area:before {
     content: '';
@@ -8723,4 +8724,14 @@ html .mt15 {
 .lst-new
 {
     margin: 0 0 0 60px;
+}
+.banner-para
+{
+    color: #fff;
+    text-align: left;
+    line-height: normal;
+    font-size: 19px;
+    font-weight: 400;
+    display: inline-block;
+    padding: 0px 0px 0 0;
 }
