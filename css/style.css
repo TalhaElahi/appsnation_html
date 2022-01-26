@@ -6366,9 +6366,9 @@ html .pb140 {
 
 .bg-btn {
     background: #ffbd84;
-    background: -moz-linear-gradient(left, #ffbd84 0%, #ff1f8e 100%);
-    background: -webkit-linear-gradient(left, #ffbd84 0%, #ff1f8e 100%);
-    background: linear-gradient(to right, #ffbd84 0%, #ff1f8e 100%);
+    background: -moz-linear-gradient(left, #ffbd84 0%, #299974 100%);
+    background: -webkit-linear-gradient(left, #ffbd84 0%, #299974 100%);
+    background: linear-gradient(to right, #ffbd84 0%, #299974 100%)
     -webkit-box-shadow: 0 10px 15px 0px rgba(175, 0, 87, .2);
     box-shadow: 0 10px 15px 0px rgba(175, 0, 87, .2);
 }
@@ -8731,7 +8731,13 @@ html .mt15 {
     text-align: left;
     line-height: normal;
     font-size: 19px;
-    font-weight: 400;
+    font-weight: 500;
     display: inline-block;
     padding: 0px 0px 0 0;
+}
+.banner-heading
+{
+    font-family: 'Poppins', sans-serif;
+    color: #ffffff;
+    font-weight: 600;
 }
