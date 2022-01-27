@@ -8741,3 +8741,102 @@ html .mt15 {
     color: #ffffff;
     font-weight: 600;
 }
+/* fluper pages edit by talha */
+.ios-sprit {
+    background: url(../images/service/11.png) no-repeat;
+    display: block;
+    margin: 0 auto;
+}
+.ios-sprit-1 {
+    background-position: -8px -8px;
+    background-size: 740%;
+    width: 60px;
+    height: 60px;
+    float: left;
+}
+.ios-sprit-2 {
+    background-position: -90px -9px;
+    background-size: 740%;
+    width: 60px;
+    height: 60px;
+    float: left;
+}
+.ios-sprit-3 {
+    background-position: -172px -9px;
+    background-size: 740%;
+    width: 60px;
+    height: 60px;
+    float: left;
+}
+.ios-sprit-4 {
+    background-position: -253px -9px;
+    background-size: 740%;
+    width: 60px;
+    height: 60px;
+    float: left;
+}
+.para-title {
+    font-size: 20px!important;
+    color: #333;
+    font-weight: 600;
+    margin-bottom: 20px!important;
+}
+hr.space {
+    border: none!important;
+    clear: both;
+    height: 20px;
+    margin: 0;
+}
+.ios-sprit-5 {
+    background-position: -441px -12px;
+    background-size: 740%;
+    width: 80px;
+    height: 80px;
+}
+.ios-sprit-6 {
+    background-position: 2px -117px;
+    background-size: 740%;
+    width: 80px;
+    height: 80px;
+}
+.ios-sprit-7 {
+    background-position: -73px -84px;
+    background-size: 590%;
+    width: 80px;
+    height: 80px;
+}
+.ios-sprit-8 {
+    background-position: -188px -96px;
+    background-size: 650%;
+    width: 80px;
+    height: 80px;
+}
+.other-links-wrapper {
+    background: linear-gradient(
+135deg
+,#56e39f 5%,#12c46e 50%,#56e39f 100%);
+    padding: 35px
+px
+ 0;
+    color: #fff;
+    border-radius: 8px;
+    margin: -40px 7px -28px;
+}
+.other-links-wrapper {
+    background: linear-gradient(
+135deg
+,#56e39f 5%,#12c46e 50%,#56e39f 100%);
+    padding: 35px 0;
+    color: #fff;
+    border-radius: 8px;
+    margin: -40px 7px -28px;
+}
+
+ul.android-other-links li {
+    border-bottom: 1px dotted #fff;
+    padding: 10px 0;
+}
+.block-height
+{
+    height:200px;
+}
