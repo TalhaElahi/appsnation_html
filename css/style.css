@@ -8815,9 +8815,8 @@ hr.space {
     background: linear-gradient(
 135deg
 ,#56e39f 5%,#12c46e 50%,#56e39f 100%);
-    padding: 35px
-px
- 0;
+    padding: 35px 0;
+
     color: #fff;
     border-radius: 8px;
     margin: -40px 7px -28px;
@@ -8839,4 +8838,8 @@ ul.android-other-links li {
 .block-height
 {
     height:200px;
+}
+.blog-size
+{
+height:180px;
 }
