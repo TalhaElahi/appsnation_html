@@ -4691,7 +4691,7 @@ p.video-lab-- {
 .dark-footer .footer-address-list li p,
 .dark-footer .ff-social-icons a,
 .dark-footer .footer-link-- li a {
-    color: #a2a2a2;
+    color: #ffffff;
 }
 
 .dark-footer h5 {
@@ -5186,7 +5186,8 @@ h3 a {
 }
 
 .clients-section-app {
-    background: #4302ae;
+    background: #28947f;
+    /* background: #4302ae; */
 }
 
 .item-info-div {
@@ -5255,13 +5256,15 @@ h3 a {
     text-align: right;
     margin: 15px;
 }
-
+/* edit by talha */
 .app-cta {
-    background: #4301b2;
+    
+    background: #28947f;
+    /* background: #4301b2; */
     position: relative;
     overflow: hidden;
 }
-
+/* xxxxxxxxxx */
 .shape-c1 {
     background: transparent;
     width: 200px;
@@ -7626,14 +7629,14 @@ a.smllbtnn {
     background-size: 130px;
     background-repeat: no-repeat;
 }
-
+/* edit by talha */
 .footerdez {
     background-color: #191919;
-    padding: 90px 0;
+    /* padding: 90px 0; */
     position: relative;
     z-index: 5;
 }
-
+/* xxxxxxxxxx */
 .fttlnks h5 {
     margin-bottom: 25px;
     font-size: 20px;
@@ -8341,7 +8344,9 @@ html .mt15 {
 }
 
 .footerdex {
-    background-color: #01011b;
+    background-color:lightslategray ;
+    
+    /* #01011b */
 }
 
 #progress-bar {
