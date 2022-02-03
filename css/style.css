@@ -32,6 +32,8 @@
     margin: 0;
     outline: none;
     vertical-align: baseline;
+    list-style-type: none;
+
 }
 
 body {
@@ -1141,7 +1143,7 @@ a.play-video::after {
 }
 
 .common-heading>span {
-    color: #e60072;
+    color: #ffffff;
     text-transform: uppercase;
     letter-spacing: 0.5px;
     font-size: 16px;
@@ -2388,7 +2390,9 @@ footer.ftshap:before {
 }
 
 .link-hover a:hover {
-    color: #ff1f8e !important;
+    /* color: #ff1f8e !important; */
+    
+    color: #28947f !important;
 }
 
 .breadcrumb-area {
